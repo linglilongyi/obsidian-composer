@@ -46,5 +46,5 @@
 
 ## 鸣谢
 
-- 任务的复选框样式参考了 @Kepano 的 [Minimal 主题](https://github.com/kepano/obsidian-minimal)。
+- 任务的复选框样式参考了 @Kepano 的 [Minimal](https://github.com/kepano/obsidian-minimal)，是一款很优秀的obsidian主题。
 
